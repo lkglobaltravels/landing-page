@@ -139,7 +139,7 @@ button {
 .hero-image {
     position: absolute;
     inset: 0;
-    background-image: url("https://lkglobaltravelandsafaris.netlify.app/images/vibe6.jpg");
+    background-image: url("images/peopleondrive.jpeg");
     background-size: cover;
     background-position: center;
     filter: saturate(.72)
